@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I've learned how to clone and how to locate the cloned files. Well i can say i didn't take github serious till today, because i've realised that it is part of coding and it helps a lot when someone neeeds helps internationally.
+=======
+I've learned how to clone and how to locate the cloned files. Well i can say i didn't take github serious till today, because i've realised that it is part of coding and it helps a lot when someone neeeds helps internationally.
+>>>>>>> fd747b376bac6ef103072f88e14fc0e3da84997d
